@@ -1,1 +1,1 @@
-The quest: move one setting out of a 900-line config. It moved one line, ran the tests, and told me the truth.
+kitchenorbiting (v.) opening the fridge again to check whether new food appeared, in case the universe changed its mind.
