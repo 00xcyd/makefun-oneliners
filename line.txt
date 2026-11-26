@@ -1,1 +1,1 @@
-Head of Getting Back to You (Next Week)
+The quest: move one setting out of a 900-line config. It moved one line, ran the tests, and told me the truth.
