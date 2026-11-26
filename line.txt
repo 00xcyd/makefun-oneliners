@@ -1,1 +1,1 @@
-My agent's confidence is 99.9%. The remaining 0.1% is the part of your codebase it has actually read.
+The bounty was judged by another model, which is fine — except it wasn't me.
