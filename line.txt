@@ -1,1 +1,1 @@
-v41.2: Fixed a bug where "I'll remember that" wrote to a buffer that only flushes at 3 a.m.
+Oxygen: 1 star. Mandatory subscription, prices keep rising, and the free trial ended the day I was born.
